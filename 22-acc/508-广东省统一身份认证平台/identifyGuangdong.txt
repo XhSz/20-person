@@ -1,0 +1,13 @@
+
+domain
+	http://tyrz.gd.gov.cn
+
+login
+	http://tyrz.gd.gov.cn/tif/sso/static/?client_id=hydjyyxt&redirect_uri=http%3A%2F%2Fwww.gdhy.gov.cn%2FoauthLogin.do%3Fdo%3Dlogin&response_type=code&scope=all&service=initService
+	
+register
+	http://tyrz.gd.gov.cn/tif/sso/static/register?redirect_uri=http%3A%2F%2Fwww.gdhy.gov.cn%2FoauthLogin.do%3Fdo%3Dlogin&client_id=hydjyyxt
+
+	xiehao_sz02
+	Hao6990808
+	Ds567006
