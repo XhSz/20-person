@@ -1,0 +1,22 @@
+sql-model
+
+-- table_name	
+-- 1.0-base
+-- 1.1-base-index
+show index from table_name;-- 
+-- 1.2-base-count
+select count(*) from table_name;-- 148698=14w
+-- 1.3-base-limit
+select * from table_name limit 1; -- 3.477
+select * from table_name limit 100;
+-- select trxn_date from table_name limit 1; -- 1.967s
+-- 6.0-busi
+-- 7.0-nsql
+-- 7.1.1-NSQL.sqlId
+-- 7.1.1.0-NSQL.sqlId-count
+-- 8.0-jira
+
+
+			-- data_create_time:20191013 08:02:59 605
+			-- data_update_time:20191014 12:10:33 261
+			-- data_version		 :2
