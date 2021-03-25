@@ -1,0 +1,15 @@
+https://blog.csdn.net/tanga842428/article/details/77131000
+http://sms.webchinese.cn/default.shtml
+中国网建
+
+register
+	xh_sz_sms
+	谢豪
+	746625878@qq.com
+	15013632409
+	866718
+target
+	pikSan
+		0060129076513
+content
+	谢豪测试，收到短信，请微信告诉我
